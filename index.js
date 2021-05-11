@@ -6,4 +6,4 @@ console.log("nuevo cambio")
 
 console.log("otro cambio")
 
-conosle.log("...."
+conosle.log("....")
